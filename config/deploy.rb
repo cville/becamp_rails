@@ -2,7 +2,7 @@
 lock '3.8.1'
 
 set :application, 'becamp_rails'
-set :repo_url, 'git@github.com:lightcastle/becamp_rails.git'
+set :repo_url, 'git@github.com:cville/becamp_rails.git'
 set :branch, 'master'
 
 # Default branch is :master
